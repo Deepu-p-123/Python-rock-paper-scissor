@@ -14,6 +14,6 @@ HOW THIS GAME WORKS:
 __________________________________
 
 In my Rock Paper Scissor game you can play with computer.you can continuously play the game the number of times you want.
-you can choose 1 option from the menu start and end
+you can choose 1 option from the menu start and end.
 start will ask you to enter your option. 
 if you press end the score will be compared and show the winner of this game
